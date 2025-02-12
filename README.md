@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying C++, C and Python for embedded systems at Hogeschool Utrecht
+I'm currently studying C++, C and Python for embedded systems at Hogeschool Utrecht.
 
 
 # 💻 Tech Stack:
